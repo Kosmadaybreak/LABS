@@ -1,0 +1,5 @@
+from fun1 import multiply
+a = int(input("Введите первое число: "))
+b = int(input("Введите второе число: "))
+res = multiply(a, b)
+print(res)
